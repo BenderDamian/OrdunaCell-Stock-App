@@ -1,0 +1,18 @@
+{
+  "name": "OrdunaCell-Stock-app",
+  "version": "1.0.0",
+  "description": "Aplicacion web para la gestion de inventario para un comercio",
+  "main": "app.js",
+  "author": "Damian Bender",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
